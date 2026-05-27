@@ -120,14 +120,14 @@ Ubuntu VM Docker-Host (10.x.x.x)
 │                    SECURITY LAYERS                          │
 │                                                             │
 │  🌐 Cloudflare                                              │
-│     DDoS-Schutz · echte IP versteckt · SSL · Bot-Schutz    │
+│     DDoS-Schutz · echte IP versteckt · SSL · Bot-Schutz     │
 │     Cloudflare Access (OTP) für sensitive Services          │
 │                                                             │
 │  🔥 OPNsense Firewall (VM 101)                              │
 │     Netzwerk-Segmentierung · NAT · Firewall-Regeln          │
 │     Heimnetz ↔ Server-Netz kontrolliert                     │
 │                                                             │
-│  🛡️ CrowdSec IPS (System-Service)                          │
+│  🛡️ CrowdSec IPS (System-Service)                           │
 │     Community Threat Intelligence                           │
 │     > 22.000 IPs automatisch geblockt                       │
 │     iptables-Bouncer · Prometheus-Metriken                  │
@@ -139,7 +139,7 @@ Ubuntu VM Docker-Host (10.x.x.x)
 │  🧠 Wazuh SIEM (Docker)                                     │
 │     Threat Detection · File Integrity Monitoring            │
 │     MITRE ATT&CK · Config Assessment · Vuln Detection       │
-│     Dashboard: https://10.xx.xx.xx:xxx                     │
+│     Dashboard: https://10.xx.xx.xx:xxx                      │
 │                                                             │
 │  📊 Grafana Security Dashboard                              │
 │     CrowdSec Live-Entscheidungen · Suricata Alerts          │
