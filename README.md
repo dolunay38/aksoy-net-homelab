@@ -4,7 +4,7 @@ Self-Hosted Home Lab — Proxmox, OPNsense, Docker, Wazuh SIEM, CrowdSec, Grafan
 
 <div align="center">
 
-![Aksoy-Net](https://img.shields.io/badge/AKSOY--NET-Home%20Lab-1E3A5F?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Aksoy-Net]
 ![Proxmox](https://img.shields.io/badge/Proxmox-9.2-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-25.7-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
