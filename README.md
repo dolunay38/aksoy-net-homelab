@@ -23,7 +23,7 @@ Selbst aufgebaut, konfiguriert und dokumentiert — im Rahmen der FISI-Ausbildun
 
 ## 🏠 Was ist Aksoy-Net?
 
-Aksoy-Net ist ein vollständig selbst betriebenes Home Lab auf einem Dell OptiPlex in der Garage — von der Netzwerkarchitektur über Virtualisierung bis zum Security-Stack alles selbst konfiguriert und dokumentiert.
+Aksoy-Net ist ein vollständig selbst betriebenes Home Lab auf einem Dell OptiPlex im eigenen Home LAB — von der Netzwerkarchitektur über Virtualisierung bis zum Security-Stack alles selbst konfiguriert und dokumentiert.
 
 Keine gemieteten Cloud-Server. Keine vorgefertigten Lösungen. Alles on-premise.
 
