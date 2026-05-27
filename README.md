@@ -207,6 +207,45 @@ Beide Laptops laufen unter **Parrot OS Security** — Debian-basierte Security-D
 | [`docs/Aksoy-Net_Installations_Referenz.pdf`](docs/Aksoy-Net_Installations_Referenz.pdf) | Alle Installations-Anleitungen, docker-compose, Befehlsreferenz |
 | [`configs/`](configs/) | Beispiel-Konfigurationen (anonymisiert) |
 
+## 📖 Dokumentation
+
+Die vollständige Dokumentation umfasst zwei Dokumente — auf Anfrage verfügbar.
+
+### Aksoy-Net Master V6 — 15 Kapitel
+
+| # | Kapitel | Teil |
+|---|---|---|
+| 1 | Hardware-Spezifikationen | A — Infrastruktur |
+| 2 | Netzwerk & Topologie | A — Infrastruktur |
+| 3 | Storage-Architektur | A — Infrastruktur |
+| 4 | Cloud & Zugang — Services | B — Services |
+| 5 | Security-Stack | B — Services |
+| 6 | Monitoring | B — Services |
+| 7 | Kamerasystem & KI | B — Services |
+| 8 | Management-Tools | B — Services |
+| 9 | OPNsense — Netzwerk & Firewall | C — Netzwerk |
+| 10 | VLAN-Plan & offene Netzwerkpunkte | C — Netzwerk |
+| 11 | Endgeräte (Laptops) | D — Endgeräte |
+| 12 | Troubleshooting & Goldene Regeln | E — Betrieb |
+| 13 | Backup-Strategie (Restic) | E — Betrieb |
+| 14 | Service-Übersicht — Alle IPs & Ports | Anhang |
+| 15 | Roadmap & Offene Punkte | Anhang |
+
+### Aksoy-Net Installations-Referenz — 7 Kapitel
+
+| # | Kapitel |
+|---|---|
+| 1 | Docker — Basis-Installation & Konfiguration |
+| 2 | Service-Installationen (docker-compose & Konfigurationen) |
+| 2.1–2.18 | Cloudflare · Tailscale · Nextcloud · Vaultwarden · Uptime Kuma · Homepage · Grafana+Loki · Prometheus · Wazuh · CrowdSec · Suricata · Frigate · Mosquitto · Double-Take · Guacamole · Portainer · Backup · Coral TPU |
+| 3 | OPNsense — Installations-Leitfaden |
+| 4 | Befehlsreferenz (Docker, Linux, Security, Proxmox) |
+| 5 | Kamera-Konfiguration & RTSP |
+| 6 | Grafana — Loki-Queries & Dashboard-Übersicht |
+| 7 | GitHub — Repository-Struktur & Sicherheitshinweise |
+
+> 📩 **Dokumentation auf Anfrage verfügbar.**
+
 ### Dokumentations-Struktur
 
 ```
